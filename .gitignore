@@ -109,7 +109,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -150,9 +149,5 @@ cython_debug/
 .idea/
 
 # VS Code
-.vscode/
-
-# Project specific
-data/logs/*.csv
-data/plates/test_aligned.jpg
-screenshots/
+config.bat
+node_modules
