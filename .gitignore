@@ -151,8 +151,3 @@ cython_debug/
 
 # VS Code
 .vscode/
-
-# Project specific
-data/logs/*.csv
-data/plates/test_aligned.jpg
-screenshots/
