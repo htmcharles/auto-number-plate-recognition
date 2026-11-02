@@ -151,3 +151,4 @@ cython_debug/
 # VS Code
 config.bat
 node_modules
+.vscode/tasks.json
